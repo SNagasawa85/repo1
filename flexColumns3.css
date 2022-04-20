@@ -1,0 +1,16 @@
+.row {
+    display: flex;
+    padding: 10px;
+}
+.col-2 {
+    background-color: orange;
+    color: black;
+    margin: 10px;
+    flex:2;
+}
+.col-3 {
+    background-color: orange;
+    color: black;
+    margin:10px;
+    flex:3;
+}
